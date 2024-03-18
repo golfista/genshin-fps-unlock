@@ -1,9 +1,9 @@
 using Microsoft.Extensions.DependencyInjection;
 using System.Runtime.InteropServices;
-using unlockfps_nc.Service;
-using unlockfps_nc.Utility;
+using unlockfps_nc2.Service;
+using unlockfps_nc2.Utility;
 
-namespace unlockfps_nc
+namespace unlockfps_nc2
 {
     internal static class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace unlockfps_nc.Model
+namespace unlockfps_nc2.Model
 {
     public class Config
     {

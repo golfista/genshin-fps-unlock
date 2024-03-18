@@ -8,10 +8,10 @@ using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using unlockfps_nc.Model;
-using unlockfps_nc.Service;
+using unlockfps_nc2.Model;
+using unlockfps_nc2.Service;
 
-namespace unlockfps_nc
+namespace unlockfps_nc2
 {
     public partial class SettingsForm : Form
     {

@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using unlockfps_nc.Model;
+using unlockfps_nc2.Model;
 
-namespace unlockfps_nc.Service
+namespace unlockfps_nc2.Service
 {
     public class ConfigService
     {

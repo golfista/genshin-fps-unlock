@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace unlockfps_nc
+namespace unlockfps_nc2
 {
     public partial class AboutForm : Form
     {

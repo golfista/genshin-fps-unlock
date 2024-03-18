@@ -9,11 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.Win32;
-using unlockfps_nc.Model;
-using unlockfps_nc.Service;
-using unlockfps_nc.Utility;
+using unlockfps_nc2.Model;
+using unlockfps_nc2.Service;
+using unlockfps_nc2.Utility;
 
-namespace unlockfps_nc
+namespace unlockfps_nc2
 {
     public partial class SetupForm : Form
     {

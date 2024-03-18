@@ -5,10 +5,10 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-using unlockfps_nc.Model;
-using unlockfps_nc.Utility;
+using unlockfps_nc2.Model;
+using unlockfps_nc2.Utility;
 
-namespace unlockfps_nc.Service
+namespace unlockfps_nc2.Service
 {
     public class ProcessService
     {

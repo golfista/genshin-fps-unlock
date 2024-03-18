@@ -1,4 +1,4 @@
-﻿namespace unlockfps_nc
+﻿namespace unlockfps_nc2
 {
     partial class SetupForm
     {

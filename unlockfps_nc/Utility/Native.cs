@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace unlockfps_nc.Utility
+namespace unlockfps_nc2.Utility
 {
     internal class Native
     {
